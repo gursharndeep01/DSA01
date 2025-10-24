@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gursharndeep01/DSA01/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gursharndeep01/DSA01/tree/master/0135-candy) |
@@ -50,6 +51,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
 |  |
@@ -154,4 +156,8 @@
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
