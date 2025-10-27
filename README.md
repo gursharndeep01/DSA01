@@ -168,4 +168,8 @@
 | ------- |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
 <!---LeetCode Topics End-->
