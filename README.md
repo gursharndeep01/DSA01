@@ -15,6 +15,7 @@
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gursharndeep01/DSA01/tree/master/0134-gas-station) |
@@ -48,6 +49,7 @@
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
@@ -61,6 +63,7 @@
 | [0046-permutations](https://github.com/gursharndeep01/DSA01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 ## Breadth-First Search
@@ -96,6 +99,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
@@ -109,6 +113,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 ## Graph
 |  |
