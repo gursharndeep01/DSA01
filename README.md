@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gursharndeep01/DSA01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/gursharndeep01/DSA01/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
@@ -63,6 +64,7 @@
 | [0040-combination-sum-ii](https://github.com/gursharndeep01/DSA01/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gursharndeep01/DSA01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/gursharndeep01/DSA01/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
