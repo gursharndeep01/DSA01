@@ -8,6 +8,7 @@
 | [0016-3sum-closest](https://github.com/gursharndeep01/DSA01/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gursharndeep01/DSA01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gursharndeep01/DSA01/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
@@ -43,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
@@ -60,6 +62,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gursharndeep01/DSA01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gursharndeep01/DSA01/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/gursharndeep01/DSA01/tree/master/0046-permutations) |
@@ -117,6 +120,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 ## Graph
