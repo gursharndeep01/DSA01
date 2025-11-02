@@ -44,6 +44,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
@@ -52,6 +53,7 @@
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
@@ -62,6 +64,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/gursharndeep01/DSA01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gursharndeep01/DSA01/tree/master/0040-combination-sum-ii) |
