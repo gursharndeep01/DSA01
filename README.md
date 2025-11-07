@@ -184,6 +184,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
@@ -197,10 +198,15 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
