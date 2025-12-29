@@ -22,6 +22,7 @@
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gursharndeep01/DSA01/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gursharndeep01/DSA01/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
@@ -53,6 +54,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
@@ -64,6 +66,7 @@
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gursharndeep01/DSA01/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
@@ -195,6 +198,7 @@
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gursharndeep01/DSA01/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
@@ -217,8 +221,13 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
