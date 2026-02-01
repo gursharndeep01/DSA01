@@ -153,6 +153,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -215,6 +216,7 @@
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gursharndeep01/DSA01/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
 ## Math
 |  |
 | ------- |
