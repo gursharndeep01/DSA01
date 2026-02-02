@@ -218,6 +218,7 @@
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gursharndeep01/DSA01/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/gursharndeep01/DSA01/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0338-counting-bits](https://github.com/gursharndeep01/DSA01/tree/master/0338-counting-bits) |
 ## Math
 |  |
