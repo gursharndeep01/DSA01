@@ -32,6 +32,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 | [0312-burst-balloons](https://github.com/gursharndeep01/DSA01/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
@@ -175,6 +176,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
+| [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 ## Data Stream
 |  |
 | ------- |
@@ -281,4 +284,12 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
