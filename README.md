@@ -116,6 +116,7 @@
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Sorting
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Union Find
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +191,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Quickselect
 |  |
 | ------- |
@@ -240,6 +244,7 @@
 | [0338-counting-bits](https://github.com/gursharndeep01/DSA01/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/gursharndeep01/DSA01/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
@@ -305,4 +310,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Graph Theory
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
