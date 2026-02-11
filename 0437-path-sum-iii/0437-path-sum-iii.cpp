@@ -11,29 +11,21 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root,int targetSum,long long sum,int& cnt){
-        if(!root){
-            return;
-        }
-        int vale=root->val;
-        sum+=vale;
+    int dfs(TreeNode* root,int targetSum,long long sum,unordered_map<long long ,int> &mpp){
+        if(!root) return 0;
+        int cnt=0;
+        sum+=root->val;
         if(sum==targetSum) cnt++;
-        dfs(root->left,targetSum,sum,cnt);
-        dfs(root->right,targetSum,sum,cnt);
-        sum-=vale;
+        if(mpp.count(sum-targetSum)) cnt+=mpp[sum-targetSum];
+        mpp[sum]++;
+        cnt+=dfs(root->left,targetSum,sum,mpp);
+        cnt+=dfs(root->right,targetSum,sum,mpp);
+        mpp[sum]--;
+        return cnt;
     }
     int pathSum(TreeNode* root, int targetSum) {
         if(!root) return 0; 
-        queue<TreeNode*> q;
-        int count=0;
-        q.push(root);
-        while(!q.empty()){
-            TreeNode* curr= q.front();
-            q.pop();
-            dfs(curr,targetSum,0,count);
-            if(curr->left) q.push(curr->left);
-            if(curr->right) q.push(curr->right); 
-        }
-        return count; 
+        unordered_map<long long ,int> mpp;
+        return dfs(root,targetSum,0,mpp); 
     }
 };
