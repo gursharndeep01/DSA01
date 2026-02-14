@@ -39,6 +39,7 @@
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0416-partition-equal-subset-sum](https://github.com/gursharndeep01/DSA01/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
@@ -61,6 +62,7 @@
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
