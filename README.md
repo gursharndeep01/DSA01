@@ -162,6 +162,7 @@
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0386-lexicographical-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
@@ -300,6 +301,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
+| [0386-lexicographical-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0386-lexicographical-numbers) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 ## Tree
