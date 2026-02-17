@@ -353,4 +353,12 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
