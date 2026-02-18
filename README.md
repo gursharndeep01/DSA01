@@ -275,6 +275,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gursharndeep01/DSA01/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/gursharndeep01/DSA01/tree/master/0136-single-number) |
@@ -284,6 +285,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/gursharndeep01/DSA01/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
