@@ -90,6 +90,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gursharndeep01/DSA01/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/gursharndeep01/DSA01/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
@@ -257,6 +258,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
@@ -354,6 +356,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
