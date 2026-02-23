@@ -98,6 +98,7 @@
 | [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gursharndeep01/DSA01/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/gursharndeep01/DSA01/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gursharndeep01/DSA01/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
