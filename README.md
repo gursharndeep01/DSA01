@@ -16,6 +16,7 @@
 | [0039-combination-sum](https://github.com/gursharndeep01/DSA01/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/gursharndeep01/DSA01/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/gursharndeep01/DSA01/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/gursharndeep01/DSA01/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
@@ -63,6 +64,7 @@
 | [0016-3sum-closest](https://github.com/gursharndeep01/DSA01/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gursharndeep01/DSA01/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 ## Binary Search
@@ -270,6 +272,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
@@ -370,10 +373,12 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 ## Geometry
 |  |
