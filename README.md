@@ -23,6 +23,7 @@
 | [0051-n-queens](https://github.com/gursharndeep01/DSA01/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/gursharndeep01/DSA01/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
@@ -200,6 +201,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/gursharndeep01/DSA01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
@@ -402,4 +404,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
