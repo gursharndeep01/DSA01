@@ -310,6 +310,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/gursharndeep01/DSA01/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/gursharndeep01/DSA01/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
@@ -396,6 +397,7 @@
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/gursharndeep01/DSA01/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/gursharndeep01/DSA01/tree/master/0060-permutation-sequence) |
 ## Game Theory
 |  |
 | ------- |
