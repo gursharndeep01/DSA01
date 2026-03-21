@@ -24,6 +24,7 @@
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/gursharndeep01/DSA01/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
@@ -202,6 +203,7 @@
 | [0036-valid-sudoku](https://github.com/gursharndeep01/DSA01/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
+| [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
@@ -280,6 +282,7 @@
 | [0045-jump-game-ii](https://github.com/gursharndeep01/DSA01/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gursharndeep01/DSA01/tree/master/0132-palindrome-partitioning-ii) |
