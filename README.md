@@ -323,6 +323,7 @@
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gursharndeep01/DSA01/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/gursharndeep01/DSA01/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -417,4 +418,9 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/gursharndeep01/DSA01/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gursharndeep01/DSA01/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
