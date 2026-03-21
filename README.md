@@ -26,6 +26,7 @@
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gursharndeep01/DSA01/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
@@ -109,6 +110,7 @@
 | [0038-count-and-say](https://github.com/gursharndeep01/DSA01/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/gursharndeep01/DSA01/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/gursharndeep01/DSA01/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
@@ -414,4 +416,5 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
 <!---LeetCode Topics End-->
