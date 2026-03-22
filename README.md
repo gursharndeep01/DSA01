@@ -62,6 +62,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -217,6 +218,7 @@
 | [0289-game-of-life](https://github.com/gursharndeep01/DSA01/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Graph
 |  |
 | ------- |
