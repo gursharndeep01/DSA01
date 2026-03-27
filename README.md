@@ -86,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/gursharndeep01/DSA01/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
@@ -348,6 +349,7 @@
 | [0060-permutation-sequence](https://github.com/gursharndeep01/DSA01/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/gursharndeep01/DSA01/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/gursharndeep01/DSA01/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/gursharndeep01/DSA01/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/gursharndeep01/DSA01/tree/master/0258-add-digits) |
