@@ -28,6 +28,7 @@
 | [0066-plus-one](https://github.com/gursharndeep01/DSA01/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/gursharndeep01/DSA01/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
@@ -79,6 +80,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gursharndeep01/DSA01/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 ## Binary Search
@@ -179,6 +181,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/gursharndeep01/DSA01/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
