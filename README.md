@@ -27,6 +27,7 @@
 | [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/gursharndeep01/DSA01/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/gursharndeep01/DSA01/tree/master/0068-text-justification) |
+| [0074-search-a-2d-matrix](https://github.com/gursharndeep01/DSA01/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
@@ -87,6 +88,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/gursharndeep01/DSA01/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gursharndeep01/DSA01/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/gursharndeep01/DSA01/tree/master/0074-search-a-2d-matrix) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
@@ -224,6 +226,7 @@
 | [0037-sudoku-solver](https://github.com/gursharndeep01/DSA01/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/gursharndeep01/DSA01/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0064-minimum-path-sum) |
+| [0074-search-a-2d-matrix](https://github.com/gursharndeep01/DSA01/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
