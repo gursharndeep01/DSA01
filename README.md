@@ -70,6 +70,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gursharndeep01/DSA01/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Two Pointers
@@ -113,6 +114,7 @@
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
@@ -366,6 +368,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Memoization
 |  |
 | ------- |
