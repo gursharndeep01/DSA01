@@ -179,6 +179,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/gursharndeep01/DSA01/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gursharndeep01/DSA01/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
@@ -225,6 +226,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/gursharndeep01/DSA01/tree/master/0101-symmetric-tree) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0386-lexicographical-numbers) |
@@ -412,6 +414,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gursharndeep01/DSA01/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/gursharndeep01/DSA01/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gursharndeep01/DSA01/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -421,6 +424,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gursharndeep01/DSA01/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
+| [0101-symmetric-tree](https://github.com/gursharndeep01/DSA01/tree/master/0101-symmetric-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gursharndeep01/DSA01/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
