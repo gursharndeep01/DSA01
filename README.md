@@ -76,6 +76,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gursharndeep01/DSA01/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,6 +206,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
