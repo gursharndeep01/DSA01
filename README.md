@@ -34,6 +34,7 @@
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/gursharndeep01/DSA01/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gursharndeep01/DSA01/tree/master/0135-candy) |
@@ -288,6 +289,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
@@ -428,6 +430,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gursharndeep01/DSA01/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -441,6 +444,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/gursharndeep01/DSA01/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -536,6 +540,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/gursharndeep01/DSA01/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
