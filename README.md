@@ -61,6 +61,7 @@
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
+| [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/gursharndeep01/DSA01/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
@@ -123,6 +124,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
+| [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -532,6 +534,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/gursharndeep01/DSA01/tree/master/0592-fraction-addition-and-subtraction) |
 | [0657-robot-return-to-origin](https://github.com/gursharndeep01/DSA01/tree/master/0657-robot-return-to-origin) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
+| [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gursharndeep01/DSA01/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
