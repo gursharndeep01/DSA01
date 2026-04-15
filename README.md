@@ -72,6 +72,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gursharndeep01/DSA01/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -234,6 +235,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -401,6 +403,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
