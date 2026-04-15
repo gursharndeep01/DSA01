@@ -77,6 +77,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gursharndeep01/DSA01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -177,6 +178,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gursharndeep01/DSA01/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gursharndeep01/DSA01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/gursharndeep01/DSA01/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
