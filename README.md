@@ -224,6 +224,7 @@
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -282,6 +283,7 @@
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -488,6 +490,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
@@ -508,6 +511,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0437-path-sum-iii](https://github.com/gursharndeep01/DSA01/tree/master/0437-path-sum-iii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Prefix Sum
