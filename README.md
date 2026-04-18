@@ -102,6 +102,7 @@
 | [0031-next-permutation](https://github.com/gursharndeep01/DSA01/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -169,6 +170,7 @@
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gursharndeep01/DSA01/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
+| [0151-reverse-words-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0165-compare-version-numbers) |
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
