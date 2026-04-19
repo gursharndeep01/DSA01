@@ -75,6 +75,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gursharndeep01/DSA01/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
@@ -107,6 +108,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
