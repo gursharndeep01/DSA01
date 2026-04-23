@@ -83,6 +83,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gursharndeep01/DSA01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -152,6 +153,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
@@ -532,6 +534,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
+| [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gursharndeep01/DSA01/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
