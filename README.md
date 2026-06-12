@@ -42,6 +42,7 @@
 | [0136-single-number](https://github.com/gursharndeep01/DSA01/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
@@ -141,6 +142,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
@@ -248,6 +250,7 @@
 | [0016-3sum-closest](https://github.com/gursharndeep01/DSA01/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/gursharndeep01/DSA01/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
@@ -348,6 +351,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/gursharndeep01/DSA01/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
@@ -384,6 +388,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/gursharndeep01/DSA01/tree/master/2833-furthest-point-from-origin) |
