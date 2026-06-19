@@ -378,6 +378,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/gursharndeep01/DSA01/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0225-implement-stack-using-queues](https://github.com/gursharndeep01/DSA01/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
@@ -396,6 +397,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/gursharndeep01/DSA01/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/gursharndeep01/DSA01/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -583,6 +585,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gursharndeep01/DSA01/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/gursharndeep01/DSA01/tree/master/0225-implement-stack-using-queues) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
