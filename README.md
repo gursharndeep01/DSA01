@@ -47,6 +47,7 @@
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/gursharndeep01/DSA01/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/gursharndeep01/DSA01/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
@@ -144,6 +145,7 @@
 | [0139-word-break](https://github.com/gursharndeep01/DSA01/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
@@ -253,6 +255,7 @@
 | [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
@@ -391,6 +394,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/gursharndeep01/DSA01/tree/master/2833-furthest-point-from-origin) |
