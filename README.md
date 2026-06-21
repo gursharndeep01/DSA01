@@ -244,6 +244,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
+| [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -307,6 +308,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
+| [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gursharndeep01/DSA01/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -588,6 +590,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Stack
 |  |
@@ -675,6 +678,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gursharndeep01/DSA01/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Iterator
 |  |
