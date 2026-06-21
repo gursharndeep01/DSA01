@@ -78,6 +78,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gursharndeep01/DSA01/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gursharndeep01/DSA01/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gursharndeep01/DSA01/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -473,6 +474,7 @@
 | [0338-counting-bits](https://github.com/gursharndeep01/DSA01/tree/master/0338-counting-bits) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gursharndeep01/DSA01/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Math
 |  |
 | ------- |
@@ -513,6 +515,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/gursharndeep01/DSA01/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Tree
 |  |
