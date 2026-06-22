@@ -117,6 +117,7 @@
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
+| [0876-middle-of-the-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0876-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Binary Search
 |  |
@@ -630,6 +631,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/gursharndeep01/DSA01/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gursharndeep01/DSA01/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0876-middle-of-the-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
