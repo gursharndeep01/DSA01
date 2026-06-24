@@ -315,6 +315,7 @@
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gursharndeep01/DSA01/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Union Find
 |  |
@@ -460,6 +461,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
@@ -545,6 +547,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/gursharndeep01/DSA01/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -570,6 +573,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/gursharndeep01/DSA01/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -683,6 +687,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/gursharndeep01/DSA01/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gursharndeep01/DSA01/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
