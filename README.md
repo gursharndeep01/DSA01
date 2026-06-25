@@ -151,6 +151,7 @@
 | [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0460-lfu-cache](https://github.com/gursharndeep01/DSA01/tree/master/0460-lfu-cache) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
@@ -395,6 +396,7 @@
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
+| [0460-lfu-cache](https://github.com/gursharndeep01/DSA01/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/gursharndeep01/DSA01/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -639,6 +641,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/gursharndeep01/DSA01/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gursharndeep01/DSA01/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0460-lfu-cache](https://github.com/gursharndeep01/DSA01/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -702,4 +705,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/gursharndeep01/DSA01/tree/master/0173-binary-search-tree-iterator) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/gursharndeep01/DSA01/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
