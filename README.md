@@ -63,6 +63,7 @@
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/gursharndeep01/DSA01/tree/master/0485-max-consecutive-ones) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
