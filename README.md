@@ -31,6 +31,7 @@
 | [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/gursharndeep01/DSA01/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gursharndeep01/DSA01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/gursharndeep01/DSA01/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -115,6 +116,7 @@
 | [0031-next-permutation](https://github.com/gursharndeep01/DSA01/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/gursharndeep01/DSA01/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gursharndeep01/DSA01/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/gursharndeep01/DSA01/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/gursharndeep01/DSA01/tree/master/0295-find-median-from-data-stream) |
