@@ -5,7 +5,6 @@ public:
         deque<int> minval;
         int right=0,left=0;
         int maxsize=0;
-        multiset<int> mst;
         while(right<nums.size()){
             while(!maxval.empty() && maxval.back()<nums[right]) maxval.pop_back();
             maxval.push_back(nums[right]);
