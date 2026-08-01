@@ -45,6 +45,7 @@
 | [0152-maximum-product-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/gursharndeep01/DSA01/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
@@ -137,6 +138,7 @@
 | [0035-search-insert-position](https://github.com/gursharndeep01/DSA01/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/gursharndeep01/DSA01/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/gursharndeep01/DSA01/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
@@ -443,6 +445,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gursharndeep01/DSA01/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/gursharndeep01/DSA01/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -606,6 +609,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
