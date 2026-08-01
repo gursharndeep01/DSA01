@@ -72,6 +72,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
+| [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/gursharndeep01/DSA01/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
@@ -140,6 +141,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
+| [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
