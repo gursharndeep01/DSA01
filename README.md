@@ -85,6 +85,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
@@ -392,6 +393,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -417,6 +419,7 @@
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -663,6 +666,7 @@
 | [0210-course-schedule-ii](https://github.com/gursharndeep01/DSA01/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 ## Stack
 |  |
 | ------- |
@@ -774,5 +778,6 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
