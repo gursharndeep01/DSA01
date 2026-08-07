@@ -673,6 +673,7 @@
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
+| [1791-find-center-of-star-graph](https://github.com/gursharndeep01/DSA01/tree/master/1791-find-center-of-star-graph) |
 ## Stack
 |  |
 | ------- |
