@@ -277,6 +277,7 @@
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/gursharndeep01/DSA01/tree/master/0684-redundant-connection) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
@@ -351,6 +352,7 @@
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gursharndeep01/DSA01/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/gursharndeep01/DSA01/tree/master/0684-redundant-connection) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
@@ -674,6 +676,7 @@
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/gursharndeep01/DSA01/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/gursharndeep01/DSA01/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0997-find-the-town-judge](https://github.com/gursharndeep01/DSA01/tree/master/0997-find-the-town-judge) |
@@ -773,6 +776,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/gursharndeep01/DSA01/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
