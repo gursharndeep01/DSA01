@@ -49,6 +49,7 @@
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0215-kth-largest-element-in-an-array) |
+| [0221-maximal-square](https://github.com/gursharndeep01/DSA01/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/gursharndeep01/DSA01/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/gursharndeep01/DSA01/tree/master/0289-game-of-life) |
@@ -381,6 +382,7 @@
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/gursharndeep01/DSA01/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/gursharndeep01/DSA01/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
@@ -508,6 +510,7 @@
 | [0152-maximum-product-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/gursharndeep01/DSA01/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/gursharndeep01/DSA01/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/gursharndeep01/DSA01/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/gursharndeep01/DSA01/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
