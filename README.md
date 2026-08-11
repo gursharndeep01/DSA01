@@ -68,6 +68,7 @@
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gursharndeep01/DSA01/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
+| [0503-next-greater-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
@@ -694,6 +695,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gursharndeep01/DSA01/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/gursharndeep01/DSA01/tree/master/0225-implement-stack-using-queues) |
+| [0503-next-greater-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -702,6 +704,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
