@@ -74,6 +74,7 @@
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/gursharndeep01/DSA01/tree/master/0648-replace-words) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
@@ -534,6 +535,7 @@
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/gursharndeep01/DSA01/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0516-longest-palindromic-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
@@ -676,12 +678,14 @@
 | [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/gursharndeep01/DSA01/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
 ## Merge Sort
 |  |
@@ -841,4 +845,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gursharndeep01/DSA01/tree/master/0494-target-sum) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
