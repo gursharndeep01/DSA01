@@ -81,6 +81,7 @@
 | [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 | [0890-lemonade-change](https://github.com/gursharndeep01/DSA01/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [0997-find-the-town-judge](https://github.com/gursharndeep01/DSA01/tree/master/0997-find-the-town-judge) |
@@ -539,6 +540,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
+| [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gursharndeep01/DSA01/tree/master/1043-partition-array-for-maximum-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -841,10 +843,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gursharndeep01/DSA01/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gursharndeep01/DSA01/tree/master/0494-target-sum) |
+| [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
