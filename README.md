@@ -221,6 +221,7 @@
 | [0071-simplify-path](https://github.com/gursharndeep01/DSA01/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/gursharndeep01/DSA01/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/gursharndeep01/DSA01/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/gursharndeep01/DSA01/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/gursharndeep01/DSA01/tree/master/0132-palindrome-partitioning-ii) |
@@ -519,6 +520,7 @@
 | [0091-decode-ways](https://github.com/gursharndeep01/DSA01/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/gursharndeep01/DSA01/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/gursharndeep01/DSA01/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/gursharndeep01/DSA01/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gursharndeep01/DSA01/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
