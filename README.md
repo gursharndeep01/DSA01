@@ -79,6 +79,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
 | [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
@@ -300,6 +301,7 @@
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
@@ -376,6 +378,7 @@
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
@@ -404,6 +407,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
+| [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
@@ -816,6 +820,7 @@
 | [0684-redundant-connection](https://github.com/gursharndeep01/DSA01/tree/master/0684-redundant-connection) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/gursharndeep01/DSA01/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/gursharndeep01/DSA01/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gursharndeep01/DSA01/tree/master/1971-find-if-path-exists-in-graph) |
