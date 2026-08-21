@@ -93,6 +93,7 @@
 | [0997-find-the-town-judge](https://github.com/gursharndeep01/DSA01/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gursharndeep01/DSA01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/gursharndeep01/DSA01/tree/master/1014-best-sightseeing-pair) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gursharndeep01/DSA01/tree/master/1032-satisfiability-of-equality-equations) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gursharndeep01/DSA01/tree/master/1043-partition-array-for-maximum-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -559,6 +560,7 @@
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
+| [1014-best-sightseeing-pair](https://github.com/gursharndeep01/DSA01/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gursharndeep01/DSA01/tree/master/1043-partition-array-for-maximum-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
