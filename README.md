@@ -91,6 +91,7 @@
 | [0890-lemonade-change](https://github.com/gursharndeep01/DSA01/tree/master/0890-lemonade-change) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [0909-snakes-and-ladders](https://github.com/gursharndeep01/DSA01/tree/master/0909-snakes-and-ladders) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [0997-find-the-town-judge](https://github.com/gursharndeep01/DSA01/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/gursharndeep01/DSA01/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -333,6 +334,7 @@
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -564,6 +566,7 @@
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1014-best-sightseeing-pair](https://github.com/gursharndeep01/DSA01/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gursharndeep01/DSA01/tree/master/1043-partition-array-for-maximum-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/gursharndeep01/DSA01/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -724,6 +727,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Graph Theory
 |  |
@@ -753,6 +757,7 @@
 | [0735-asteroid-collision](https://github.com/gursharndeep01/DSA01/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
@@ -763,6 +768,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
+| [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Geometry
 |  |
