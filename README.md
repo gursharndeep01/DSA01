@@ -68,6 +68,7 @@
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gursharndeep01/DSA01/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gursharndeep01/DSA01/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
@@ -166,6 +167,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
+| [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
@@ -730,6 +732,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
 | [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -755,6 +758,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/gursharndeep01/DSA01/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/gursharndeep01/DSA01/tree/master/0225-implement-stack-using-queues) |
+| [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
@@ -768,6 +772,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
+| [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/gursharndeep01/DSA01/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/gursharndeep01/DSA01/tree/master/0901-online-stock-span) |
