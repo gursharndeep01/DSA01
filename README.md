@@ -261,6 +261,7 @@
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gursharndeep01/DSA01/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/gursharndeep01/DSA01/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -362,6 +363,7 @@
 | [0890-lemonade-change](https://github.com/gursharndeep01/DSA01/tree/master/0890-lemonade-change) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Depth-First Search
@@ -608,6 +610,7 @@
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/gursharndeep01/DSA01/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -796,6 +799,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 ## Simulation
 |  |
 | ------- |
