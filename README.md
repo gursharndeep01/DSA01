@@ -113,6 +113,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/gursharndeep01/DSA01/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
@@ -579,6 +580,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gursharndeep01/DSA01/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -612,6 +614,7 @@
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gursharndeep01/DSA01/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/gursharndeep01/DSA01/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -704,6 +707,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/gursharndeep01/DSA01/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [3546-equal-sum-grid-partition-i](https://github.com/gursharndeep01/DSA01/tree/master/3546-equal-sum-grid-partition-i) |
@@ -804,6 +808,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 ## Simulation
 |  |
@@ -881,6 +886,7 @@
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -899,4 +905,8 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
