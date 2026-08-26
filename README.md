@@ -63,6 +63,7 @@
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/gursharndeep01/DSA01/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
+| [0410-split-array-largest-sum](https://github.com/gursharndeep01/DSA01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/gursharndeep01/DSA01/tree/master/0416-partition-equal-subset-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
@@ -168,6 +169,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/gursharndeep01/DSA01/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/gursharndeep01/DSA01/tree/master/0410-split-array-largest-sum) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/gursharndeep01/DSA01/tree/master/0493-reverse-pairs) |
@@ -358,6 +360,7 @@
 | [0055-jump-game](https://github.com/gursharndeep01/DSA01/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/gursharndeep01/DSA01/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/gursharndeep01/DSA01/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/gursharndeep01/DSA01/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gursharndeep01/DSA01/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/gursharndeep01/DSA01/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -562,6 +565,7 @@
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/gursharndeep01/DSA01/tree/master/0338-counting-bits) |
 | [0377-combination-sum-iv](https://github.com/gursharndeep01/DSA01/tree/master/0377-combination-sum-iv) |
+| [0410-split-array-largest-sum](https://github.com/gursharndeep01/DSA01/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/gursharndeep01/DSA01/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
@@ -707,6 +711,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/gursharndeep01/DSA01/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gursharndeep01/DSA01/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/gursharndeep01/DSA01/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/gursharndeep01/DSA01/tree/master/0560-subarray-sum-equals-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
