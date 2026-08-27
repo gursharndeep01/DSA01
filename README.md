@@ -223,6 +223,7 @@
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/gursharndeep01/DSA01/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/gursharndeep01/DSA01/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/gursharndeep01/DSA01/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/gursharndeep01/DSA01/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -277,6 +278,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/gursharndeep01/DSA01/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -515,6 +518,7 @@
 | [0621-task-scheduler](https://github.com/gursharndeep01/DSA01/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [2833-furthest-point-from-origin](https://github.com/gursharndeep01/DSA01/tree/master/2833-furthest-point-from-origin) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
 |  |
 | ------- |
@@ -845,6 +849,7 @@
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/gursharndeep01/DSA01/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/gursharndeep01/DSA01/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search Tree
 |  |
 | ------- |
