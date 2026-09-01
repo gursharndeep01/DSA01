@@ -817,6 +817,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/gursharndeep01/DSA01/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0460-lfu-cache](https://github.com/gursharndeep01/DSA01/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/gursharndeep01/DSA01/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gursharndeep01/DSA01/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
