@@ -274,6 +274,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/0720-longest-word-in-dictionary) |
 | [0768-partition-labels](https://github.com/gursharndeep01/DSA01/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
+| [0940-distinct-subsequences-ii](https://github.com/gursharndeep01/DSA01/tree/master/0940-distinct-subsequences-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gursharndeep01/DSA01/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -597,6 +598,7 @@
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
 | [0879-profitable-schemes](https://github.com/gursharndeep01/DSA01/tree/master/0879-profitable-schemes) |
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/gursharndeep01/DSA01/tree/master/0940-distinct-subsequences-ii) |
 | [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1014-best-sightseeing-pair](https://github.com/gursharndeep01/DSA01/tree/master/1014-best-sightseeing-pair) |
 | [1043-partition-array-for-maximum-sum](https://github.com/gursharndeep01/DSA01/tree/master/1043-partition-array-for-maximum-sum) |
