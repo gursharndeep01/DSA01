@@ -22,11 +22,7 @@ public:
         return {sum,n} ;
     }
     int averageOfSubtree(TreeNode* root) {
-        auto left= calculate(root->left);
-        auto right = calculate(root->right);
-        int sum=left.first+right.first+root->val;
-        int n=left.second+right.second+1;
-        if((sum/n)==root->val) count++;
+        calculate(root);
         return count;
     }
 };
