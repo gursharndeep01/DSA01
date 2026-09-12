@@ -129,6 +129,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gursharndeep01/DSA01/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gursharndeep01/DSA01/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
@@ -191,6 +192,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
@@ -369,6 +371,7 @@
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gursharndeep01/DSA01/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -613,6 +616,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
