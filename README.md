@@ -86,6 +86,7 @@
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/gursharndeep01/DSA01/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/gursharndeep01/DSA01/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/gursharndeep01/DSA01/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/gursharndeep01/DSA01/tree/master/0877-stone-game) |
@@ -455,6 +456,7 @@
 | [0749-contain-virus](https://github.com/gursharndeep01/DSA01/tree/master/0749-contain-virus) |
 | [0778-swim-in-rising-water](https://github.com/gursharndeep01/DSA01/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/gursharndeep01/DSA01/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/gursharndeep01/DSA01/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/gursharndeep01/DSA01/tree/master/0909-snakes-and-ladders) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
