@@ -283,6 +283,7 @@
 | [0778-reorganize-string](https://github.com/gursharndeep01/DSA01/tree/master/0778-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/gursharndeep01/DSA01/tree/master/0940-distinct-subsequences-ii) |
 | [1032-satisfiability-of-equality-equations](https://github.com/gursharndeep01/DSA01/tree/master/1032-satisfiability-of-equality-equations) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -822,6 +823,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/gursharndeep01/DSA01/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -949,6 +951,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
