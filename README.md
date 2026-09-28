@@ -287,6 +287,7 @@
 | [1250-longest-common-subsequence](https://github.com/gursharndeep01/DSA01/tree/master/1250-longest-common-subsequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/gursharndeep01/DSA01/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/gursharndeep01/DSA01/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/gursharndeep01/DSA01/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -824,6 +825,7 @@
 | [0975-odd-even-jump](https://github.com/gursharndeep01/DSA01/tree/master/0975-odd-even-jump) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gursharndeep01/DSA01/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 ## Monotonic Stack
 |  |
@@ -952,6 +954,7 @@
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Knapsack Problem
 |  |
 | ------- |
