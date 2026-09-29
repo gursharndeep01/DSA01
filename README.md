@@ -121,6 +121,7 @@
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gursharndeep01/DSA01/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gursharndeep01/DSA01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
@@ -467,6 +468,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gursharndeep01/DSA01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -622,6 +624,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/gursharndeep01/DSA01/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/gursharndeep01/DSA01/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gursharndeep01/DSA01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/gursharndeep01/DSA01/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -955,6 +958,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gursharndeep01/DSA01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Knapsack Problem
 |  |
 | ------- |
