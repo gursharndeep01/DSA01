@@ -248,6 +248,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/gursharndeep01/DSA01/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/gursharndeep01/DSA01/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
@@ -811,6 +812,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/gursharndeep01/DSA01/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/gursharndeep01/DSA01/tree/master/0071-simplify-path) |
@@ -957,6 +959,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gursharndeep01/DSA01/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
