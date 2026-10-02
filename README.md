@@ -960,6 +960,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/gursharndeep01/DSA01/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/gursharndeep01/DSA01/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
