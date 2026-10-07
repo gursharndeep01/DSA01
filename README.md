@@ -269,6 +269,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/gursharndeep01/DSA01/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/gursharndeep01/DSA01/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0301-remove-invalid-parentheses) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/gursharndeep01/DSA01/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gursharndeep01/DSA01/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -324,6 +325,7 @@
 | [0126-word-ladder-ii](https://github.com/gursharndeep01/DSA01/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/gursharndeep01/DSA01/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/gursharndeep01/DSA01/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/gursharndeep01/DSA01/tree/master/0494-target-sum) |
 ## Breadth-First Search
 |  |
@@ -337,6 +339,7 @@
 | [0130-surrounded-regions](https://github.com/gursharndeep01/DSA01/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/gursharndeep01/DSA01/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/gursharndeep01/DSA01/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/gursharndeep01/DSA01/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/gursharndeep01/DSA01/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/gursharndeep01/DSA01/tree/master/0547-number-of-provinces) |
