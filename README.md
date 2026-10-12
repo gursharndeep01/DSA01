@@ -129,6 +129,7 @@
 | [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/gursharndeep01/DSA01/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gursharndeep01/DSA01/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2906-construct-product-matrix](https://github.com/gursharndeep01/DSA01/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/gursharndeep01/DSA01/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/gursharndeep01/DSA01/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -235,6 +236,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/gursharndeep01/DSA01/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2615-sum-of-distances](https://github.com/gursharndeep01/DSA01/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gursharndeep01/DSA01/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/gursharndeep01/DSA01/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/gursharndeep01/DSA01/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
@@ -414,6 +416,7 @@
 | [1927-sum-game](https://github.com/gursharndeep01/DSA01/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gursharndeep01/DSA01/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gursharndeep01/DSA01/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Depth-First Search
@@ -655,6 +658,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/gursharndeep01/DSA01/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0645-set-mismatch](https://github.com/gursharndeep01/DSA01/tree/master/0645-set-mismatch) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/gursharndeep01/DSA01/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/gursharndeep01/DSA01/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/gursharndeep01/DSA01/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Math
 |  |
