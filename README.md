@@ -120,6 +120,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/gursharndeep01/DSA01/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/gursharndeep01/DSA01/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gursharndeep01/DSA01/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/gursharndeep01/DSA01/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/gursharndeep01/DSA01/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/gursharndeep01/DSA01/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -198,6 +199,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/gursharndeep01/DSA01/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2080-range-frequency-queries](https://github.com/gursharndeep01/DSA01/tree/master/2080-range-frequency-queries) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gursharndeep01/DSA01/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3488-closest-equal-element-queries](https://github.com/gursharndeep01/DSA01/tree/master/3488-closest-equal-element-queries) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/gursharndeep01/DSA01/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -388,6 +390,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/gursharndeep01/DSA01/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/gursharndeep01/DSA01/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/gursharndeep01/DSA01/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/gursharndeep01/DSA01/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/gursharndeep01/DSA01/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/gursharndeep01/DSA01/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/gursharndeep01/DSA01/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
