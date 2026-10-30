@@ -317,6 +317,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/gursharndeep01/DSA01/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/gursharndeep01/DSA01/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gursharndeep01/DSA01/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -510,6 +511,7 @@
 | [0399-evaluate-division](https://github.com/gursharndeep01/DSA01/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gursharndeep01/DSA01/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gursharndeep01/DSA01/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -538,6 +540,7 @@
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gursharndeep01/DSA01/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/gursharndeep01/DSA01/tree/master/1631-path-with-minimum-effort) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gursharndeep01/DSA01/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Quickselect
 |  |
 | ------- |
@@ -835,6 +838,7 @@
 | [1514-path-with-maximum-probability](https://github.com/gursharndeep01/DSA01/tree/master/1514-path-with-maximum-probability) |
 | [1791-find-center-of-star-graph](https://github.com/gursharndeep01/DSA01/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/gursharndeep01/DSA01/tree/master/1971-find-if-path-exists-in-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/gursharndeep01/DSA01/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
