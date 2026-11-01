@@ -69,6 +69,7 @@
 | [0435-non-overlapping-intervals](https://github.com/gursharndeep01/DSA01/tree/master/0435-non-overlapping-intervals) |
 | [0436-find-right-interval](https://github.com/gursharndeep01/DSA01/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/gursharndeep01/DSA01/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gursharndeep01/DSA01/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/gursharndeep01/DSA01/tree/master/0456-132-pattern) |
 | [0474-ones-and-zeroes](https://github.com/gursharndeep01/DSA01/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gursharndeep01/DSA01/tree/master/0485-max-consecutive-ones) |
@@ -684,6 +685,7 @@
 | [0070-climbing-stairs](https://github.com/gursharndeep01/DSA01/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/gursharndeep01/DSA01/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/gursharndeep01/DSA01/tree/master/0258-add-digits) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/gursharndeep01/DSA01/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/gursharndeep01/DSA01/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/gursharndeep01/DSA01/tree/master/0592-fraction-addition-and-subtraction) |
 | [0836-rectangle-overlap](https://github.com/gursharndeep01/DSA01/tree/master/0836-rectangle-overlap) |
